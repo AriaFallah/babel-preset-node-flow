@@ -1,0 +1,12 @@
+{
+  "name": "babel-preset-node-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AriaFallah/babel-preset-node-flow.git",
+  "author": "AriaFallah <aria@fallah.us>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.1.10",
+    "babel-preset-flow": "^6.23.0"
+  }
+}
